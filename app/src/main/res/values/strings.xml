@@ -14,5 +14,6 @@
     <string name="menu_profile">Profile</string>
     <string name="menu_election">Election</string>
     <string name="menu_notice">Notice Board</string>
+    <string name="menu_exit">Log Out</string>
 
 </resources>
